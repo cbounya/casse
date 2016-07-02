@@ -6,9 +6,14 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+### Cedric
 
 A place to include any other types of information that you'd like to include about yourself.
+
+de l'*italique*
+du **gras**
+du $latex + i$
+[coucou]({{ site }})
 
 ### Contact me
 
