@@ -4,7 +4,7 @@ title: Sommaire du cours
 permalink: /cours/
 ---
 
-il y a 6 grands chapitres dans le [<span class="glyphicon glyphicon-level-up"></span>programme de deuxième année](/pdf/programmeECE2.pdf)
+il y a 6 grands chapitres dans le [<span class="glyphicon glyphicon-level-up"></span>programme de deuxième année](/utile/progMathEce2.pdf)
 
 ## Premier semestre
 

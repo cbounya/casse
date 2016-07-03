@@ -58,11 +58,9 @@ permalink: /utile/
 </div>
 
 <h2 id="programmes-officiels-de-nos-classes">Programmes officiels de nos classes</h2>
-
 <div class="row">
   <div class="col-lg-4">
     <h3 id="mathmatiques-et-informatique">Mathématiques et informatique</h3>
-
     <ul>
       <li><a href="./progMathEce1.pdf" title="fichier PDF">Programme Ece 1</a></li>
       <li><a href="./progMathEce2.pdf" title="fichier PDF">Programme Ece 2</a></li>
@@ -70,20 +68,16 @@ permalink: /utile/
   </div>
   <div class="col-lg-4">
     <h3 id="conomie-sociologie-et-histoire-du-monde-contemporain-esh">Économie, sociologie et histoire du monde contemporain (ESH)</h3>
-
     <ul>
       <li><a href="./progEshEce12.pdf" title="fichier PDF">Programme Ece 1 &amp; 2</a></li>
     </ul>
-
     <h3 id="economie-approfondie">Economie approfondie</h3>
-
     <ul>
       <li><a href="./progEcoApprofECE12.pdf" title="fichier PDF">Programme Ece 1 &amp; 2</a></li>
     </ul>
   </div>
   <div class="col-lg-4">
     <h3 id="langues-vivantes-trangres">Langues vivantes étrangères</h3>
-
     <ul>
       <li><a href="./progLveCpgeEco.pdf" title="fichier PDF">Objectifs de formation</a></li>
     </ul>
